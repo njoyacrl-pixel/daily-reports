@@ -11,7 +11,7 @@ Date:  Thursday 16, July 2026
 
 ## What I built
 
-## Link to commit / repo: https://github.com/SEED-Cameroon/assignments/pull/1#issue-4912974966
+## Link to commit / repo: https://github.com/SEED-Cameroon/assignments/pull/1/changes/40ee3d539bb085f5351a23c0305d516e17b12db7
 
 ## Where I got stuck
 
