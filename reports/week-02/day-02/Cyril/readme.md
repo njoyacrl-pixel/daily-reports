@@ -1,13 +1,13 @@
 # Daily Report — Week XX, Day XX
 
 **Name:Njoya Cyril**
-**Date:11/8/2026**
+**Date:13/8/2026**
 
 ## What I learned today
 
-- basics of css styling
-- types of css tags and 
-- how to impliment basis css styling
+- css flex box
+- creating a container and all the flox comands
+- how to style a page using flexbox
 
 
 ## What I built
